@@ -1,7 +1,7 @@
 # GitHub Profile Analyzer
 
 GitHub Profile Analyzer is a web-based tool that allows users to enter any GitHub username and instantly view all of their public repositories. <br/>
-It provides a quick and organized way to explore a developer's public work, including repo names, descriptions, languages used, stars, and more.
+It provides a quick and organized way to explore a developer's public work, including repo names, descriptions, languages used, stars, and more.<br/>
 It also provide last 90 days commits chart.
 
 ### Live Project Link
