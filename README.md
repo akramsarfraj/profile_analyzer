@@ -4,11 +4,10 @@ GitHub Profile Analyzer is a web-based tool that allows users to enter any GitHu
 It provides a quick and organized way to explore a developer's public work, including repo names, descriptions, languages used, stars, and more.<br/>
 It also provide last 90 days commits chart.
 
-### This project is build using React+Vite with Typescript 
+### This project is build using React+Vite with Typescript along with ShadCN UI
 
 ### Live Project Link
-https://smart-student-id.netlify.app/
-
+https://profile-analyzer-github.netlify.app/
 ### `npm run dev`
 
 Runs the app in the development mode.\
